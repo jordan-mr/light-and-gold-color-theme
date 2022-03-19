@@ -2,7 +2,18 @@
     "name": "light-and-gold-color-theme",
     "displayName": "light-and-gold-color-theme.json ",
     "description": "A light and gold Theme for VS Code. Inspiration from mafsi/VsCode-Themes",
-    "version": "0.0.1",
+    "publisher": "jordan-mr",
+    "repository": {
+        "url": "https://github.com/jordan-mr/light-and-gold-color-theme.git"
+    },
+    "keywords": [
+        "light",
+        "gold"
+    ],
+    "author": {
+        "name": "Jordan MR"
+    },
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.65.0"
     },
