@@ -1,0 +1,21 @@
+{
+    "name": "light-and-gold-color-theme",
+    "displayName": "light-and-gold-color-theme.json ",
+    "description": "A light and gold Theme for VS Code. Inspiration from mafsi/VsCode-Themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light and Gold",
+                "uiTheme": "vs",
+                "path": "./themes/Light and Gold-color-theme.json"
+            }
+        ]
+    }
+}
